@@ -1,0 +1,36 @@
+Partlist
+
+Exported from atom.brd at 11/26/2021 1:46 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                   Package               Library               Position (mm)         Orientation
+
+C1       0.1uF                   C0603                 AtomBasics            (14.1478 26.9494)     R180
+C2       0.1uF                   C0603                 AtomBasics            (14.1478 28.3464)     R180
+C8       15pF                    C0603                 AtomBasics            (16.6116 20.2184)     R270
+C9       1.0uF                   C0603                 AtomBasics            (21.463 41.91)        R0
+C11      2.2uF                   C0603                 AtomBasics            (26.9494 41.8084)     R180
+F1       1206T1A500063R          PTC-1206              SparkFun-PowerIC      (29.1338 53.1876)     R270
+J1       DNP                     SMT-JUMPER_2_NO_SILK  AtomBasics            (33.6296 43.8658)     MR90
+J2       DNP                     SMT-JUMPER_2_NO_SILK  AtomBasics            (15.8496 43.8658)     MR90
+J3       DNP                     SMT-JUMPER_2_NO_SILK  AtomBasics            (22.4282 43.8658)     MR90
+J4       DNP                     SMT-JUMPER_2_NO_SILK  AtomBasics            (20.1676 12.0396)     MR270
+J5       DNP                     SMT-JUMPER_2_NO_SILK  AtomBasics            (26.2636 12.0396)     MR270
+PH1      DNP                     PH1X1                 AtomBasics            (2.54 2.54)           R0
+PH2      DNP                     PH1X1                 AtomBasics            (40.64 2.54)          R0
+PWR      MHT170UGCT              CHIPLED_0805          AtomBasics            (31.75 53.34)         R180
+R1       2k                      R0603                 AtomBasics            (26.416 12.7)         R90
+R2       10K                     R0603                 AtomBasics            (14.1478 29.7942)     R180
+R4       2k                      R0603                 AtomBasics            (31.7524 50.236)      R90
+R5       100k                    R0603                 AtomBasics            (24.3078 42.6212)     R270
+R6       330                     R0603                 AtomBasics            (24.3078 45.5168)     R270
+R7       47K                     R0603                 AtomBasics            (17.5768 41.91)       R0
+R8       30k                     R0603                 AtomBasics            (14.224 41.91)        R0
+R9       47k                     R0603                 AtomBasics            (13.716 44.196)       R270
+RESET    DNP                     3X4X2_TURT_TAC        AtomBasics            (12.3444 52.8828)     R90
+USR_LED  17-21/BHC-AP1Q2/3T      CHIPLED_0805          AtomBasics            (24.384 12.7)         R0
+V1       AP2112K-3.3TRG1         SOT23-T5              AtomBasics            (26.8986 44.5262)     R90
+Y1       FC-12M32.768KHZ7PF20PPM CRYSTAL-SMD-3.2X1.5MM samd21-temp           (14.4272 22.1742)     R90
