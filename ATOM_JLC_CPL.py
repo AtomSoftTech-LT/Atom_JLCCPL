@@ -42,7 +42,7 @@ for line in Lines:
             myOutput += partName + ", " + partMidX + ", " + partMidY + ", " + topBottom + ", " + rotation + "\n"
             
 print(myOutput)
-myOutputFilename = myFilename[0:-3:] + "csv"
+myOutputFilename = myFilename[0:-4:] + "_cpl.csv"
 
 f = open(myOutputFilename, "w")
 f.write("Designator, Mid X, Mid Y, Layer, Rotation\n")
