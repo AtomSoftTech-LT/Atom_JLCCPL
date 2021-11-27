@@ -30,7 +30,7 @@ for line in Lines:
             x[9] = x[9].replace(",","")
             myOutput += x[3] + ', ' + x[9] + ', ' + x[7] + " \n"
             
-            print(myOutput)
+            #print(myOutput)
             
 print(myOutput)
 myOutputFilename = myFilename[0:-4:] + "_bom.csv"
