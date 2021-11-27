@@ -1,11 +1,19 @@
 # Atom_JLCCPL
- Parts list file to JLCPPCB PCL File
+Parts list and BOM file to JLCPCB csv file for ordering PCBs
 
-Basically you export from EagleCAD schematic the Parts List and open it with this program like...
+# To use simply call the file with CPL or BOM
+python ATOM_JLCPCB.py BOM materials.csv
 
-python ATOM_JLCCPL.py sample.txt
+python ATOM_JLCPCB.py CPL parts.csv
 
-It will export on screen and in a CSV file the data needed. 
+Included are some sample files.
 
+# BOM
+EXPORT BOM in EAGLECAD from schematic view
+
+Choose VALUES and CSV as the options
+
+# CPL
+Export EAGLECAD parts list from schematic view
 
 ALL PARTS SHOULD HAVE A VALUE. If not please put DNP on that line.. might change it to NA or what ever.
