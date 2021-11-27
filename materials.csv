@@ -1,0 +1,16 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"DESCRIPTION";"DIGI-KEY_PART_NUMBER";"MF";"MP";"PACKAGE";"POPULARITY";"PROD_ID";"PURCHASE-URL";"VALUE";
+"4";"0.1uF";"CAPACITOR_0603";"C0603";"C1, C2, C5, C6";"";"";"";"";"";"";"";"";"";"";
+"1";"1.0uF";"CAPACITOR_0603";"C0603";"C9";"";"";"";"";"";"";"";"";"";"";
+"1";"100k";"RESISTOR_0603";"R0603";"R5";"";"";"";"";"";"";"";"";"";"";
+"1";"17-21/BHC-AP1Q2/3T";"LEDSCHIPLED_0805";"CHIPLED_0805";"USR_LED";"";"";"";"";"";"";"52";"";"";"";
+"1";"2.2uF";"CAPACITOR_0603";"C0603";"C11";"";"";"";"";"";"";"";"";"";"";
+"2";"2k";"RESISTOR_0603";"R0603";"R1, R4";"";"";"";"";"";"";"";"";"";"";
+"1";"30k";"RESISTOR_0603";"R0603";"R8";"";"";"";"";"";"";"";"";"";"";
+"1";"330";"RESISTOR_0603";"R0603";"R6";"";"";"";"";"";"";"";"";"";"";
+"1";"47K";"RESISTOR_0603";"R0603";"R7";"";"";"";"";"";"";"";"";"";"";
+"5";"DNP";"JUMPER-SMT_2_NO_SILK";"SMT-JUMPER_2_NO_SILK";"J1, J2, J3, J4, J5";"Normally open jumper";"";"";"";"";"";"";"";"";"";
+"4";"DNP";"M10"";"1X10";"JP1, JP2, JP3, JP4";"Header 10";"";"";"";"";"";"";"";"";"";
+"1";"FC-12M32.768KHZ7PF20PPM";"CRYSTAL3.2X1.5MM";"CRYSTAL-SMD-3.2X1.5MM";"Y1";"Various standard crystals. Proven footprints.";"";"";"";"";"";"";"XTAL-13062";"";"";
+"1";"GZ1608D300TF";"INDUCTOR0603";"0603";"L1";"Inductors";"";"";"";"";"";"";"RES-07859";"";"";
+"1";"MHT170UGCT";"LEDSCHIPLED_0805";"CHIPLED_0805";"PWR";"";"";"";"";"";"";"52";"";"";"";
+"1";"SN74AHC1G125DBVR";"74AHC1G125W5-7";"SOT95P280X140-5N";"U2";"SINGLE BUFFER GATE WITH 3-STATE OUTPUT";" Buffer, Non-Inverting 1 Element 1 Bit per Element 3-State Output SOT-25 ";"74AHC1G125W5-7DICT-ND";"Diodes Inc.";"74AHC1G125W5-7";"SOT-753 Diodes Inc.";"";"";"https://pricing.snapeda.com/search/part/74AHC1G125W5-7/?ref=eda";"";
